@@ -1,6 +1,6 @@
 ## Projeto Calculadora 👋
 <br/>
-Projeto de uma calculadora simples como solução de exercício do curso de ADS.
+Projeto de uma calculadora simples como solução do exercício do curso de ADS.
 <br/>
 
 <br/>
