@@ -8,7 +8,7 @@ Projeto de uma calculadora simples como solução de exercício do curso de ADS.
 ![Imagem da tela principal da Calculadora](Calculadora.PNG)
 
 
-## Tecnologias que eu uso:
+## Tecnologia utilizada:
 
 <div style="display: inline_block"><br/>
 
