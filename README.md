@@ -5,6 +5,7 @@ App de uma calculadora simples como solução do exercício do curso de ADS.
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
 
 <br/>
+
 # Sobre o projeto
 
 Calculadora é uma aplicação full stack mobile construída em react native/expo que possibilita o cálculo com as 4 operações básicas (+, -, *, /).
@@ -13,7 +14,7 @@ Calculadora é uma aplicação full stack mobile construída em react native/exp
 # Layout Mobile
 ![Imagem da tela principal da Calculadora](Calculadora.PNG)
 
-# Tecnologia utilizada:
+# Tecnologias utilizadas:
 - JavaScript 
 - React Native
 - Expo
