@@ -1,7 +1,9 @@
 ## Projeto Calculadora 👋
 <br/>
 App de uma calculadora simples como solução do exercício do curso de ADS.
-<br/>
+
+
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
 
 <br/>
 
@@ -34,8 +36,10 @@ npm start
 # Contato:
 
 Renato Sampaio
+<br/>
 Estudante de Análise e Desenvolvimento de Sistemas
 
 <br/>
 E-mail: sampaio.ras@hotmail.com
+<br/>
 https://www.linkedin.com/in/renato-alves-sampaio/
