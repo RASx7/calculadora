@@ -1,24 +1,41 @@
 ## Projeto Calculadora 👋
 <br/>
-Projeto de uma calculadora simples como solução do exercício do curso de ADS.
+App de uma calculadora simples como solução do exercício do curso de ADS.
 <br/>
 
 <br/>
 
 ![Imagem da tela principal da Calculadora](Calculadora.PNG)
 
+# Sobre o projeto
+
+Calculadora é uma aplicação full stack mobile construída em react native/expo que possibilita o cálculo com as 4 operações básicas (+, -, *, /).
 
 ## Tecnologia utilizada:
 
-<div style="display: inline_block"><br/>
-
-<img align="center" alt="react-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+- JavaScript 
+- React Native
+- Expo
 
 </div><br/>
 
-## Contato:
-<br/>
+```bash
+# clonar repositório
+git clone https://github.com/RASx7/calculadora.git
+
+# Instalar as dependências - entrar na pasta do projeto e executar
+npm install
+
+# executar o projeto
+npm start
+
+```
+
+# Contato:
+
+Renato Sampaio
 Estudante de Análise e Desenvolvimento de Sistemas
 
 <br/>
 E-mail: sampaio.ras@hotmail.com
+https://www.linkedin.com/in/renato-alves-sampaio/
